@@ -191,17 +191,6 @@ Modos de juego.
 
 ---
 
-# 📸 Capturas
-
-Agregar imágenes del juego aquí.
-
-```text
-/docs/menu.png
-/docs/gameplay.png
-```
-
----
-
 # 🚀 Posibles Mejoras
 
 * Implementar modo P1.
