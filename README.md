@@ -12,7 +12,7 @@ Este proyecto es una recreación de **Flappy Bird** con:
 * Sistema de físicas simple.
 * Detección de colisiones.
 * Menú interactivo.
-* Música y efectos de sonido.
+* Música de fondo.
 * Arquitectura modular orientada a objetos.
 * Modo P1 vs P2.
 
@@ -43,7 +43,7 @@ mvn compile exec:exec "-DmainClass=com.graphics.App"
 # 📂 Estructura del Proyecto
 
 ```text
-com.graphics
+src/main/java/com/graphics
 │
 ├── audio
 ├── fisica
@@ -205,7 +205,6 @@ Agregar imágenes del juego aquí.
 # 🚀 Posibles Mejoras
 
 * Implementar modo P1.
-* Agregar animaciones.
 * Sistema de récords.
 * Más obstáculos.
 * Sonidos de colisión.
@@ -214,6 +213,12 @@ Agregar imágenes del juego aquí.
 
 ---
 
+# ⭐ Evaluacion
+
+* No se realizo cambios
+
+---
+
 # 👨‍💻 Autor
 
-Proyecto académico desarrollado en Java + LWJGL.
+Edilson Mamani Maturano - Proyecto académico desarrollado en Java + LWJGL.
